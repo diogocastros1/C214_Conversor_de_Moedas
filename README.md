@@ -1,4 +1,4 @@
-# Conbversor de moedas
+# 💱 Conversor de moedas
 
 ## 🗒️ Resumo
 O projeto consiste em um conversor básico de moedas que utiliza da API `https://api.exchangerate-api.com/v4/latest/` da AYR Tech, que é uma empresa SaaS. Abaixo listo os comandos necessários e como o projeto funciona.
