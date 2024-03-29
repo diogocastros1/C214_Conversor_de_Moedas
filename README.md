@@ -34,5 +34,6 @@ npm install axios
 ~~~
 
 ## ▶️ Execução
-- Para excução da main, basta digitar `npm start`.
-- Para excutar os testes basta ter efetuado a instalação e no terminal digitar `npm test`.
+Para excução do conversor de moedas, basta digitar `npm start` e seguir as orientações do console. Para informar uma moeda utilize a sigla global da moeda, exemplo dolar (USD), real (BRL), euro (EUR) e assim segue.
+
+Para excutar os testes basta ter efetuado a instalação e no terminal digitar `npm test`.
