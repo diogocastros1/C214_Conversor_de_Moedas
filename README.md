@@ -1,3 +1,5 @@
+[![Deploy](https://github.com/diogocastros1/C214_Conversor_de_Moedas/actions/workflows/node.js.yml/badge.svg)](https://github.com/diogocastros1/C214_Conversor_de_Moedas/actions/workflows/node.js.yml)
+
 # 💱 Conversor de moedas
 
 ## 🗒️ Resumo
